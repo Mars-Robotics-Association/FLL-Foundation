@@ -1,2 +1,2 @@
 # FLL-Foundation
-Foundational code for FLL using python- originally adapted from Queens of Code codebase
+MicroPython code for the Mars Robotics Association FLL teams. Originally taken from the Queens of Code codebase for the 2020-2021 FLL Season
